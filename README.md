@@ -84,15 +84,15 @@ I am currently seeking an apprenticeship (alternance) to deepen my technical exp
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oeoecbien&theme=default&hide_border=false&include_all_commits=false&count_private=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oeoecbien&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=oeoecbien&theme=default&hide_border=false)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=oeoecbien&theme=dark&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oeoecbien&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oeoecbien&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## GitHub Achievements
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=oeoecbien&theme=default&no-frame=false&no-bg=false&margin-w=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=oeoecbien&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
 ## Random Dev Quote  
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
