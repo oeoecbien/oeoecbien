@@ -94,5 +94,7 @@ I am currently seeking an apprenticeship (alternance) to deepen my technical exp
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
 
 ## Support  
+
 If you wish to support my work:  
+
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/melih0132)  
