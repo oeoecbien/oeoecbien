@@ -90,10 +90,6 @@ I am currently seeking an apprenticeship (alternance) to deepen my technical exp
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oeoecbien&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## GitHub Achievements
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=oeoecbien&theme=dark&no-frame=false&no-bg=false&margin-w=4)
-
 ## Random Dev Quote  
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
 
